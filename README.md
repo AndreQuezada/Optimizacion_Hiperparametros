@@ -1,7 +1,5 @@
 # Optimizacion_Hiperparametros
 
-# Optimización de Hiperparámetros con Random Forest
-
 ## 📌 Descripción
 Este repositorio contiene un cuaderno Jupyter (`.ipynb`) donde se realiza la optimización de hiperparámetros de un modelo **Random Forest** utilizando `GridSearchCV` y `RandomizedSearchCV`. También se incluye el modelo entrenado (`.pkl`) para su uso posterior sin necesidad de reentrenamiento.
 
